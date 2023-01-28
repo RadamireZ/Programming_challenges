@@ -1,5 +1,5 @@
-##Steven S. Skiena Miguel A. Revilla 
+## Steven S. Skiena Miguel A. Revilla 
 
-#PROGRAMMING CHALLENGES 
+# PROGRAMMING CHALLENGES 
 
 ### The Programming Contest Training Manual
