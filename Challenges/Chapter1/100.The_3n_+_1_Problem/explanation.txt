@@ -1,0 +1,8 @@
+The solution while reading the input checks whether there are the bombs and save them in a dedicated vector.
+O(n*m) 
+
+Now that we have the bombs represented as a pair, we can loop over them and call a function that uses an add function 8 times.
+one for every direction , where the current iterated bomb is in the center.
+
+the add function will check whether we are outside to the matrix or we are trying to add on another bomb represente by -1 in the matrix.
+
